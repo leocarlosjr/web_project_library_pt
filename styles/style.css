@@ -343,19 +343,18 @@
 
 .footer__columns {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-around;
 }
 
 .footer__column_content_hours {
-  margin-right: 80px;
+  margin-left: auto;
 }
 
 .footer__column_content_social {
-  margin-right: 80px;
+  margin-left: 80px;
 }
 
 .footer__logo {
-  margin-right: auto;
   margin-top: 20px;
 }
 
